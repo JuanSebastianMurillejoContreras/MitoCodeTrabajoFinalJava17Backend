@@ -1,3 +1,3 @@
 # MitoCodeTrabajoFinalJava17Backend
 
-Poyecto del curso Java 17 Backend Developer, impartido por MitoCode, para obtener la certifiación de aprobación. 
+Proyecto-examen del curso Java 17 Backend Developer con el que obtuve la certificación de aprobación del curso. 
